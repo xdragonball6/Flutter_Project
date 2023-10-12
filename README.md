@@ -11,13 +11,15 @@ Flutter 제작 기간 - (2023-08-07 ~ 2023-08-10)
 
 #### 기능설명
 
--
--
+- R Serve를 이용한 AI model을 활용한 입장객 수를 예측
+  R Serve를 이용한 AI model을 활용한 심혈관질환 자가진단
+- TableCalender를 이용해 달력을 표시
+  Obx를 이용해 날짜 선택
 ---
 ---
 #### Database    
     : MySQL    
-
+    : Firebase
 #### 기술 스택
 <p align="left">
   <a href="https://skillicons.dev">
